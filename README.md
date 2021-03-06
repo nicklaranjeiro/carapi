@@ -5,3 +5,5 @@ An API created using MongoDB and Express. The car model is created with the corr
 This is an example of the dataset
 
 ![ca-3](https://user-images.githubusercontent.com/36013469/110217295-39c49e80-7e81-11eb-83e5-f4782779b273.png)
+
+Make sure you have MongoDB installed and running before running the app.js file
